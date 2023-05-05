@@ -49,10 +49,10 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
 			<?php } ?>
 			</div>
 			<div class="form-group">
-				<input name="email" id="email" type="email" class="form-control" placeholder="Email"  required>
+				<input name="email" id="email" type="email" class="form-control" placeholder="Email New"  required>
 			</div>
 			<div class="form-group">
-				<input type="password" class="form-control" name="pwd" placeholder="Password"  required>
+				<input type="password" class="form-control" name="pwd" placeholder="Password New"  required>
 			</div>  
 			<div class="form-group">
 				<button type="submit" name="login" class="btn btn-success">Login</button>
